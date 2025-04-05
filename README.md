@@ -45,7 +45,7 @@ const acronymor = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-152-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-315.5%20thousand%20lines%20of%20code-blue)
 
@@ -64,21 +64,21 @@ const acronymor = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-🌆 Daytime                189 commits         ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-🌃 Evening                441 commits         █████████████░░░░░░░░░░░░   53.58 % 
-🌙 Night                  96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+🌞 Morning                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+🌆 Daytime                195 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+🌃 Evening                441 commits         █████████████░░░░░░░░░░░░   53.20 % 
+🌙 Night                  96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Tuesday                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Wednesday                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Friday                   125 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Saturday                 130 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Sunday                   151 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Tuesday                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Wednesday                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Friday                   125 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Saturday                 136 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Sunday                   151 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
 ```
 
 
@@ -112,12 +112,8 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/acronymor/acronymor/main/assets/bar_graph.png)
-
-
- Last Updated on 2025-04-05 04:28:51 UTC
+ Last Updated on 2025-04-05 06:19:03 UTC
 <!--END_SECTION:waka-->
 
 ## 📈 GitHub Activity Graph:
