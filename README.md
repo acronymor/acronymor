@@ -24,7 +24,7 @@ const acronymor = {
         },
         devOps: ["Kubernetes", "Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
         databases: ["MySQL", "SQLite", "redis"],
-        bigdata: ["Flink", "Spark", "Hadoop", "HBase", "Hive"]
+        bigdata: ["Flink", "Spark", "Hadoop", "HBase", "Hive"],
         misc: ["Socket.IO", "REST APIs"],
         AI: ["LangChain", "AutoGen", "Dify"]
     },
