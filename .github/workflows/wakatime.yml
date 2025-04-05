@@ -24,3 +24,4 @@ jobs:
           LOCALE: "en"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
           SHOW_LINES_OF_CODE: True
+          SHOW_LOC_CHART: False
