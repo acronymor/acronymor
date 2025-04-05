@@ -41,4 +41,77 @@ const acronymor = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2057%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 200.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 128 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+🌆 Daytime                188 commits         ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+🌃 Evening                441 commits         █████████████░░░░░░░░░░░░   53.65 % 
+🌙 Night                  96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Tuesday                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Wednesday                104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Friday                   125 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Saturday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Sunday                   151 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+CMake                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/acronymor/acronymor/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/04/2025 04:17:06 UTC
 <!--END_SECTION:waka-->
