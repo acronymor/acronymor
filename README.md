@@ -132,7 +132,4 @@ Go                       1 repo              ██░░░░░░░░░�
     <tr>
         <td align="center"><a href="https://github.com/acronymor#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acronymor&theme=default"/></a><a href="https://github.com/acronymor#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acronymor&theme=tokyonight"/></a></td>
     </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/acronymor#gh-light-mode-only"><img src="https://raw.githubusercontent.com/acronymor/acronymor/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/acronymor#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/acronymor/acronymor/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
 </table>
