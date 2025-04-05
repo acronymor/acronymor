@@ -42,6 +42,20 @@ const acronymor = {
 
 ---
 
+## 📈 GitHub Activity Graph:
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/acronymor#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=acronymor&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/acronymor#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=acronymor&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/acronymor#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acronymor&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/acronymor#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acronymor&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/acronymor#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acronymor&theme=default"/></a><a href="https://github.com/acronymor#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acronymor&theme=tokyonight"/></a></td>
+    </tr>
+</table>
+
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2057%20mins-blue)
 
@@ -116,14 +130,3 @@ Go                       1 repo              ██░░░░░░░░░�
  Last Updated on 2025-04-05 06:19:03 UTC
 <!--END_SECTION:waka-->
 
-## 📈 GitHub Activity Graph:
-
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/acronymor#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=acronymor&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/acronymor#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=acronymor&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/acronymor#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acronymor&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/acronymor#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acronymor&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/acronymor#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acronymor&theme=default"/></a><a href="https://github.com/acronymor#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=acronymor&theme=tokyonight"/></a></td>
-    </tr>
-</table>
