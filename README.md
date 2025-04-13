@@ -43,17 +43,17 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-194-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-316.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-316.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 200.3 kB Used in GitHub's Storage 
  > 
-> 🏆 179 Contributions in the Year 2025
+> 🏆 181 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,21 +64,21 @@ const acronymor = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-🌆 Daytime                200 commits         ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-🌃 Evening                449 commits         █████████████░░░░░░░░░░░░   53.26 % 
-🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌞 Morning                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+🌆 Daytime                200 commits         ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+🌃 Evening                449 commits         █████████████░░░░░░░░░░░░   53.20 % 
+🌙 Night                  98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Tuesday                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Wednesday                106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Friday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Saturday                 141 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Sunday                   155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Tuesday                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Wednesday                106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Thursday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Friday                   126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 141 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Sunday                   156 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
 ```
 
 
@@ -88,23 +88,23 @@ Sunday                   155 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       11 hrs 10 mins      ███████████████████████░░   90.29 % 
-YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Java                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Go                       8 hrs 44 mins       ██████████████████████░░░   87.91 % 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Java                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-GoLand                   12 hrs 2 mins       ████████████████████████░   97.29 % 
-IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+GoLand                   9 hrs 36 mins       ████████████████████████░   96.63 % 
+IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🐱‍💻 Projects: 
-Algorithm                11 hrs 46 mins      ████████████████████████░   95.23 % 
-chunjun                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-LearnGo                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Algorithm                9 hrs 20 mins       ████████████████████████░   94.06 % 
+chunjun                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+LearnGo                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Linux                    12 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -120,7 +120,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-04-12 06:24:45 UTC
+ Last Updated on 2025-04-13 06:25:57 UTC
 <!--END_SECTION:waka-->
 
 ---
