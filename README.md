@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-197-blue)
 
@@ -88,20 +88,20 @@ Sunday                   157 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       7 hrs 55 mins       █████████████████████████   99.84 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-x86 Plan9 Assembly       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Go                       6 hrs 49 mins       █████████████████████████   99.82 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+x86 Plan9 Assembly       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-GoLand                   7 hrs 56 mins       █████████████████████████   100.00 % 
+GoLand                   6 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Algorithm                7 hrs 40 mins       ████████████████████████░   96.65 % 
-LearnGo                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Algorithm                6 hrs 34 mins       ████████████████████████░   96.11 % 
+LearnGo                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Linux                    7 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -117,7 +117,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-04-16 06:28:11 UTC
+ Last Updated on 2025-04-17 06:27:59 UTC
 <!--END_SECTION:waka-->
 
 ---
