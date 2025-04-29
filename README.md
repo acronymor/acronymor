@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -52,8 +52,6 @@ const acronymor = {
 **🐱 My GitHub Data** 
 
 > 📦 200.3 kB Used in GitHub's Storage 
- > 
-> 🏆 206 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,19 +86,20 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       4 hrs 35 mins       █████████████████████████   98.79 % 
-go.mod                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Go                       4 hrs 35 mins       ████████████████████████░   96.47 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+go.mod                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 39 mins       █████████████████████████   100.00 % 
+GoLand                   4 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Algorithm                4 hrs 38 mins       █████████████████████████   99.84 % 
-LearnGo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Algorithm                4 hrs 45 mins       █████████████████████████   99.85 % 
+LearnGo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    4 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -116,7 +115,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-04-28 06:35:02 UTC
+ Last Updated on 2025-04-29 06:28:53 UTC
 <!--END_SECTION:waka-->
 
 ---
