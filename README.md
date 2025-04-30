@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -86,20 +86,20 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       4 hrs 35 mins       ████████████████████████░   96.47 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-go.mod                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Go                       4 hrs 9 mins        ████████████████████████░   96.12 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+go.mod                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 45 mins       █████████████████████████   100.00 % 
+GoLand                   4 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Algorithm                4 hrs 45 mins       █████████████████████████   99.85 % 
-LearnGo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Algorithm                4 hrs 19 mins       █████████████████████████   99.83 % 
+LearnGo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Linux                    4 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -115,7 +115,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-04-29 06:28:53 UTC
+ Last Updated on 2025-04-30 06:28:41 UTC
 <!--END_SECTION:waka-->
 
 ---
