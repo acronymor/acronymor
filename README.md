@@ -53,6 +53,8 @@ const acronymor = {
 
 > 📦 200.3 kB Used in GitHub's Storage 
  > 
+> 🏆 206 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -86,20 +88,20 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       4 hrs 9 mins        ████████████████████████░   96.12 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-go.mod                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Go                       4 hrs 29 mins       ████████████████████████░   94.72 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+go.mod                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 19 mins       █████████████████████████   100.00 % 
+GoLand                   4 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Algorithm                4 hrs 19 mins       █████████████████████████   99.83 % 
-LearnGo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Algorithm                4 hrs 44 mins       █████████████████████████   99.85 % 
+LearnGo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    4 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -115,7 +117,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-04-30 06:28:41 UTC
+ Last Updated on 2025-05-01 06:28:51 UTC
 <!--END_SECTION:waka-->
 
 ---
