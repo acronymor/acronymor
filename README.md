@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -52,8 +52,6 @@ const acronymor = {
 **🐱 My GitHub Data** 
 
 > 📦 200.3 kB Used in GitHub's Storage 
- > 
-> 🏆 206 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,17 +86,17 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       4 hrs 37 mins       ████████████████████████░   95.96 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Go                       3 hrs 59 mins       ████████████████████████░   95.36 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 48 mins       █████████████████████████   100.00 % 
+GoLand                   4 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Algorithm                4 hrs 48 mins       █████████████████████████   100.00 % 
+Algorithm                4 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -114,7 +112,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-05-03 06:25:53 UTC
+ Last Updated on 2025-05-04 06:26:58 UTC
 <!--END_SECTION:waka-->
 
 ---
