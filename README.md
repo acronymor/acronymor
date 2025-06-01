@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,16 +88,25 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 47 mins       █████████████████████████   100.00 % 
+Go                       1 hr 25 mins        █████████████████████░░░░   83.90 % 
+C++                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-GoLand                   2 hrs 47 mins       █████████████████████████   100.00 % 
+GoLand                   1 hr 25 mins        █████████████████████░░░░   83.90 % 
+CLion                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 
 🐱‍💻 Projects: 
-Algorithm                2 hrs 47 mins       █████████████████████████   100.00 % 
+Algorithm                1 hr 25 mins        █████████████████████░░░░   83.90 % 
+AmDB                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+am-kv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+postgres                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+fmt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -113,7 +122,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-05-31 06:26:53 UTC
+ Last Updated on 2025-06-01 06:28:19 UTC
 <!--END_SECTION:waka-->
 
 ---
