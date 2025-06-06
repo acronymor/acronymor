@@ -57,9 +57,9 @@ const acronymor = {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -88,25 +88,25 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 hr 21 mins        █████████████████████░░░░   83.27 % 
-C++                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Go                       20 mins             ██████████████░░░░░░░░░░░   56.14 % 
+C++                      15 mins             ██████████░░░░░░░░░░░░░░░   41.65 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-GoLand                   1 hr 21 mins        █████████████████████░░░░   83.27 % 
-CLion                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+GoLand                   20 mins             ██████████████░░░░░░░░░░░   56.14 % 
+CLion                    16 mins             ███████████░░░░░░░░░░░░░░   43.86 % 
 
 🐱‍💻 Projects: 
-Algorithm                1 hr 21 mins        █████████████████████░░░░   83.27 % 
-AmDB                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-am-kv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-postgres                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Algorithm                20 mins             ██████████████░░░░░░░░░░░   56.14 % 
+AmDB                     15 mins             ██████████░░░░░░░░░░░░░░░   41.41 % 
+am-kv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+postgres                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 fmt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
+Linux                    37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -122,7 +122,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-02 06:31:09 UTC
+ Last Updated on 2025-06-06 06:30:38 UTC
 <!--END_SECTION:waka-->
 
 ---
