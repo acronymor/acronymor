@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -88,17 +88,24 @@ Sunday                   159 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 hr 51 mins        █████████████████████████   99.13 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Go                       3 hrs 12 mins       ████████████████████████░   95.75 % 
+C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-GoLand                   1 hr 52 mins        █████████████████████████   100.00 % 
+GoLand                   3 hrs 13 mins       ████████████████████████░   96.24 % 
+CLion                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🐱‍💻 Projects: 
-Algorithm                1 hr 52 mins        █████████████████████████   100.00 % 
+Algorithm                3 hrs 13 mins       ████████████████████████░   96.24 % 
+AmDB                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+am-kv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+fmt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 52 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -114,7 +121,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-11 06:30:06 UTC
+ Last Updated on 2025-06-12 06:30:44 UTC
 <!--END_SECTION:waka-->
 
 ---
