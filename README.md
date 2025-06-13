@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -88,8 +88,8 @@ Sunday                   159 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 12 mins       ████████████████████████░   95.75 % 
-C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Go                       3 hrs 12 mins       ████████████████████████░   95.76 % 
+C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
@@ -105,7 +105,7 @@ am-kv                    0 secs              ░░░░░░░░░░░�
 fmt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -121,7 +121,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-12 06:30:44 UTC
+ Last Updated on 2025-06-13 06:30:33 UTC
 <!--END_SECTION:waka-->
 
 ---
