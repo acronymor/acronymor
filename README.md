@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -88,24 +88,24 @@ Sunday                   159 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 12 mins       ████████████████████████░   95.76 % 
-C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Go                       3 hrs 55 mins       ████████████████████████░   96.90 % 
+C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-GoLand                   3 hrs 13 mins       ████████████████████████░   96.24 % 
-CLion                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+GoLand                   3 hrs 55 mins       ████████████████████████░   96.90 % 
+CLion                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🐱‍💻 Projects: 
-Algorithm                3 hrs 13 mins       ████████████████████████░   96.24 % 
-AmDB                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-am-kv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Algorithm                3 hrs 55 mins       ████████████████████████░   96.90 % 
+AmDB                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+am-kv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 fmt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -121,7 +121,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-14 06:27:12 UTC
+ Last Updated on 2025-06-15 06:27:49 UTC
 <!--END_SECTION:waka-->
 
 ---
