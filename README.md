@@ -53,6 +53,8 @@ const acronymor = {
 
 > 📦 200.3 kB Used in GitHub's Storage 
  > 
+> 🏆 209 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -86,24 +88,24 @@ Sunday                   159 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 55 mins       ████████████████████████░   95.86 % 
-C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Go                       3 hrs 1 min         ████████████████████████░   95.99 % 
+C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-GoLand                   2 hrs 55 mins       ████████████████████████░   95.86 % 
-CLion                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+GoLand                   3 hrs 1 min         ████████████████████████░   95.99 % 
+CLion                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🐱‍💻 Projects: 
-Algorithm                2 hrs 55 mins       ████████████████████████░   95.86 % 
-AmDB                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Algorithm                3 hrs 1 min         ████████████████████████░   95.99 % 
+AmDB                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 am-kv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 fmt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -119,7 +121,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-16 06:32:04 UTC
+ Last Updated on 2025-06-17 06:30:31 UTC
 <!--END_SECTION:waka-->
 
 ---
