@@ -88,24 +88,16 @@ Sunday                   159 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 49 mins       ████████████████████████░   95.74 % 
-C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Go                       1 hr 28 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-GoLand                   2 hrs 49 mins       ████████████████████████░   95.74 % 
-CLion                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+GoLand                   1 hr 28 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Algorithm                2 hrs 49 mins       ████████████████████████░   95.74 % 
-AmDB                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-am-kv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-fmt                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Algorithm                1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -121,7 +113,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-18 06:30:29 UTC
+ Last Updated on 2025-06-19 06:30:30 UTC
 <!--END_SECTION:waka-->
 
 ---
