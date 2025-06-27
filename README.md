@@ -53,6 +53,8 @@ const acronymor = {
 
 > 📦 201.1 kB Used in GitHub's Storage 
  > 
+> 🏆 229 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -86,16 +88,16 @@ Sunday                   164 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       9 hrs 48 mins       █████████████████████████   100.00 % 
+Go                       10 hrs 18 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-GoLand                   9 hrs 48 mins       █████████████████████████   100.00 % 
+GoLand                   10 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Algorithm                9 hrs 48 mins       █████████████████████████   100.00 % 
+Algorithm                10 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -111,7 +113,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-06-26 06:31:25 UTC
+ Last Updated on 2025-06-27 06:30:59 UTC
 <!--END_SECTION:waka-->
 
 ---
