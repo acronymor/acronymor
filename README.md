@@ -43,6 +43,8 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-323.1%20thousand%20lines%20of%20code-blue)
@@ -86,16 +88,16 @@ Sunday                   164 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       4 hrs 17 mins       █████████████████████████   100.00 % 
+Go                       5 hrs 14 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 17 mins       █████████████████████████   100.00 % 
+GoLand                   5 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Algorithm                4 hrs 17 mins       █████████████████████████   100.00 % 
+Algorithm                5 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -111,7 +113,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-07-01 06:31:44 UTC
+ Last Updated on 2025-07-02 06:31:21 UTC
 <!--END_SECTION:waka-->
 
 ---
