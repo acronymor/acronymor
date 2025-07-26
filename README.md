@@ -88,16 +88,22 @@ Sunday                   164 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       51 mins             █████████████████████████   100.00 % 
+Go                       2 hrs 12 mins       ████████████████████░░░░░   81.73 % 
+YAML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Lua                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-GoLand                   51 mins             █████████████████████████   100.00 % 
+GoLand                   2 hrs 12 mins       ████████████████████░░░░░   81.73 % 
+IntelliJ IDEA            29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
 
 🐱‍💻 Projects: 
-Algorithm                51 mins             █████████████████████████   100.00 % 
+Algorithm                2 hrs 12 mins       ████████████████████░░░░░   81.73 % 
+apisix                   29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+chunjun                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    51 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -113,7 +119,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-07-25 06:33:37 UTC
+ Last Updated on 2025-07-26 06:30:40 UTC
 <!--END_SECTION:waka-->
 
 ---
