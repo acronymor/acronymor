@@ -53,8 +53,6 @@ const acronymor = {
 
 > 📦 204.0 kB Used in GitHub's Storage 
  > 
-> 🏆 235 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -88,24 +86,23 @@ Sunday                   166 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Lua                      5 hrs 43 mins       ██████████████░░░░░░░░░░░   55.26 % 
-Go                       3 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
-YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Lua                      5 hrs 34 mins       ███████████████░░░░░░░░░░   58.49 % 
+Go                       3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
+YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Dockerfile               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 47 mins       ████████████████░░░░░░░░░   65.61 % 
-GoLand                   3 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
+IntelliJ IDEA            6 hrs 18 mins       █████████████████░░░░░░░░   66.24 % 
+GoLand                   3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
 
 🐱‍💻 Projects: 
-apisix                   5 hrs 51 mins       ██████████████░░░░░░░░░░░   56.59 % 
-Algorithm                3 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
-LearnLua                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-chunjun                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+apisix                   5 hrs 22 mins       ██████████████░░░░░░░░░░░   56.44 % 
+Algorithm                3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
+LearnLua                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 
 💻 Operating System: 
-Linux                    10 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -121,7 +118,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-08-01 06:35:22 UTC
+ Last Updated on 2025-08-02 06:30:00 UTC
 <!--END_SECTION:waka-->
 
 ---
