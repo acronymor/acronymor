@@ -53,8 +53,6 @@ const acronymor = {
 
 > 📦 204.0 kB Used in GitHub's Storage 
  > 
-> 🏆 243 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -88,16 +86,22 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       1 hr 24 mins        █████████████████████████   100.00 % 
+Kotlin                   2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.75 % 
+Go                       1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Java                     1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+GitIgnore file           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-GoLand                   1 hr 24 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 20 mins       ██████████████████░░░░░░░   72.84 % 
+GoLand                   1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   27.16 % 
 
 🐱‍💻 Projects: 
-Algorithm                1 hr 24 mins        █████████████████████████   100.00 % 
+Algorithm                3 hrs 28 mins       ███████████████░░░░░░░░░░   58.18 % 
+LearnKotlin              2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.82 % 
 
 💻 Operating System: 
-Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -113,7 +117,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-08-16 06:29:06 UTC
+ Last Updated on 2025-08-17 06:29:53 UTC
 <!--END_SECTION:waka-->
 
 ---
