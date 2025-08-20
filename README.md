@@ -53,8 +53,6 @@ const acronymor = {
 
 > 📦 204.0 kB Used in GitHub's Storage 
  > 
-> 🏆 243 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -88,22 +86,22 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 17 mins       ███████████████░░░░░░░░░░   58.16 % 
-Java                     1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Go                       59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-GitIgnore file           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Kotlin                   4 hrs 18 mins       ██████████████░░░░░░░░░░░   54.58 % 
+Go                       1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Java                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+GitIgnore file           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 23 mins       ██████████████████████░░░   86.47 % 
-GoLand                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+IntelliJ IDEA            6 hrs 23 mins       ████████████████████░░░░░   81.10 % 
+GoLand                   1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 
 🐱‍💻 Projects: 
-LearnKotlin              4 hrs 32 mins       ███████████████░░░░░░░░░░   61.45 % 
-Algorithm                2 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   38.55 % 
+LearnKotlin              4 hrs 32 mins       ██████████████░░░░░░░░░░░   57.66 % 
+Algorithm                3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.34 % 
 
 💻 Operating System: 
-Linux                    7 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -119,7 +117,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-08-19 06:31:40 UTC
+ Last Updated on 2025-08-20 06:31:11 UTC
 <!--END_SECTION:waka-->
 
 ---
