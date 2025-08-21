@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -86,22 +86,22 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 18 mins       ██████████████░░░░░░░░░░░   54.58 % 
-Go                       1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Java                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-GitIgnore file           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Kotlin                   4 hrs 21 mins       ██████████████░░░░░░░░░░░   55.66 % 
+Go                       1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Java                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+GitIgnore file           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 23 mins       ████████████████████░░░░░   81.10 % 
-GoLand                   1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+IntelliJ IDEA            6 hrs 27 mins       █████████████████████░░░░   82.35 % 
+GoLand                   1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 
 🐱‍💻 Projects: 
-LearnKotlin              4 hrs 32 mins       ██████████████░░░░░░░░░░░   57.66 % 
-Algorithm                3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.34 % 
+LearnKotlin              4 hrs 36 mins       ███████████████░░░░░░░░░░   58.75 % 
+Algorithm                3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
 
 💻 Operating System: 
-Linux                    7 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -117,7 +117,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-08-20 06:31:11 UTC
+ Last Updated on 2025-08-21 06:39:32 UTC
 <!--END_SECTION:waka-->
 
 ---
