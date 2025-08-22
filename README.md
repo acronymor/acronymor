@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -52,6 +52,8 @@ const acronymor = {
 **🐱 My GitHub Data** 
 
 > 📦 204.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 243 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,22 +88,22 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 21 mins       ██████████████░░░░░░░░░░░   55.66 % 
-Go                       1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Java                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-GitIgnore file           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Kotlin                   4 hrs 49 mins       ███████████████░░░░░░░░░░   60.68 % 
+Java                     1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Go                       1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+GitIgnore file           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 27 mins       █████████████████████░░░░   82.35 % 
-GoLand                   1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+IntelliJ IDEA            6 hrs 55 mins       ██████████████████████░░░   86.99 % 
+GoLand                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 
 🐱‍💻 Projects: 
-LearnKotlin              4 hrs 36 mins       ███████████████░░░░░░░░░░   58.75 % 
-Algorithm                3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
+LearnKotlin              5 hrs 4 mins        ████████████████░░░░░░░░░   63.74 % 
+Algorithm                2 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.26 % 
 
 💻 Operating System: 
-Linux                    7 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -117,7 +119,7 @@ Go                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-08-21 06:39:32 UTC
+ Last Updated on 2025-08-22 06:30:45 UTC
 <!--END_SECTION:waka-->
 
 ---
