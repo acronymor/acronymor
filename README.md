@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -88,24 +88,24 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     13 hrs 37 mins      ████████████████░░░░░░░░░   62.46 % 
-Kotlin                   4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-YAML                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-SQL                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-XML                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Java                     13 hrs 37 mins      ████████████████░░░░░░░░░   63.86 % 
+Kotlin                   3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+YAML                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+SQL                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+XML                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 48 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            21 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am-cty                   16 hrs 3 mins       ██████████████████░░░░░░░   73.59 % 
-LearnKotlin              2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-deipaas                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-cloud-pivot              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+am-cty                   16 hrs 3 mins       ███████████████████░░░░░░   75.24 % 
+LearnKotlin              2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+deipaas                  1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+cloud-pivot              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Linux                    21 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -121,7 +121,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-08-28 06:30:06 UTC
+ Last Updated on 2025-08-29 06:29:26 UTC
 <!--END_SECTION:waka-->
 
 ---
