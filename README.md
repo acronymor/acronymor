@@ -43,11 +43,11 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-362.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-367.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,21 +64,21 @@ const acronymor = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-🌆 Daytime                258 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-🌃 Evening                632 commits         █████████████░░░░░░░░░░░░   53.92 % 
-🌙 Night                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+🌆 Daytime                258 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+🌃 Evening                636 commits         ██████████████░░░░░░░░░░░   54.08 % 
+🌙 Night                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Wednesday                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Friday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Sunday                   212 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Sunday                   212 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
 ```
 
 
@@ -88,23 +88,22 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     11 hrs 51 mins      ████████████████░░░░░░░░░   64.79 % 
-SQL                      2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-YAML                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Kotlin                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-XML                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Java                     7 hrs 38 mins       ███████████████████░░░░░░   74.64 % 
+SQL                      1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Kotlin                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 hrs 17 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            10 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am-cty                   16 hrs 32 mins      ███████████████████████░░   90.39 % 
-deipaas                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-cloud-pivot              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+am-cty                   9 hrs 21 mins       ███████████████████████░░   91.33 % 
+deipaas                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+cloud-pivot              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 💻 Operating System: 
-Linux                    18 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -120,7 +119,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-08-31 06:27:13 UTC
+ Last Updated on 2025-09-01 06:32:49 UTC
 <!--END_SECTION:waka-->
 
 ---
