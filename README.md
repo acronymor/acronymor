@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,22 +88,22 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 hrs 1 min         ██████████████████░░░░░░░   73.74 % 
-SQL                      1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-XML                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Java                     5 hrs 32 mins       ██████████████████░░░░░░░   71.49 % 
+SQL                      1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 10 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            7 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am-cty                   7 hrs 58 mins       ████████████████████████░   97.75 % 
-deipaas                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-cloud-pivot              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+am-cty                   7 hrs 41 mins       █████████████████████████   99.20 % 
+cloud-pivot              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+deipaas                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    8 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -119,7 +119,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-03 06:28:08 UTC
+ Last Updated on 2025-09-04 06:28:35 UTC
 <!--END_SECTION:waka-->
 
 ---
