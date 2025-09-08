@@ -47,7 +47,7 @@ const acronymor = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-367.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,21 +64,21 @@ const acronymor = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-🌆 Daytime                258 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-🌃 Evening                636 commits         ██████████████░░░░░░░░░░░   54.08 % 
-🌙 Night                  136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌆 Daytime                258 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+🌃 Evening                637 commits         ██████████████░░░░░░░░░░░   54.07 % 
+🌙 Night                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Sunday                   212 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Sunday                   213 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 ```
 
 
@@ -88,22 +88,21 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     7 hrs 27 mins       ██████████████████████░░░   87.70 % 
-SQL                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Java                     7 hrs 50 mins       ██████████████████████░░░   89.52 % 
+SQL                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 29 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            8 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am-cty                   8 hrs 26 mins       █████████████████████████   99.37 % 
-cloud-pivot              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-deipaas                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+am-cty                   8 hrs 45 mins       █████████████████████████   99.89 % 
+cloud-pivot              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    8 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -119,7 +118,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-07 06:26:26 UTC
+ Last Updated on 2025-09-08 06:30:41 UTC
 <!--END_SECTION:waka-->
 
 ---
