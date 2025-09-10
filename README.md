@@ -53,6 +53,8 @@ const acronymor = {
 
 > 📦 204.1 kB Used in GitHub's Storage 
  > 
+> 🏆 255 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -86,20 +88,20 @@ Sunday                   213 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 hrs 35 mins       ██████████████████████░░░   88.54 % 
-SQL                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Java                     5 hrs 7 mins        █████████████████████░░░░   85.74 % 
+SQL                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 26 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am-cty                   7 hrs 26 mins       █████████████████████████   100.00 % 
+am-cty                   5 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -115,7 +117,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-09 06:30:33 UTC
+ Last Updated on 2025-09-10 06:29:04 UTC
 <!--END_SECTION:waka-->
 
 ---
