@@ -88,20 +88,21 @@ Sunday                   213 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     5 hrs 7 mins        █████████████████████░░░░   85.74 % 
-SQL                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Java                     3 hrs 56 mins       ██████████████████████░░░   87.01 % 
+SQL                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Lua                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 58 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am-cty                   5 hrs 58 mins       █████████████████████████   100.00 % 
+am-cty                   4 hrs 26 mins       ████████████████████████░   97.91 % 
+apisix                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -117,7 +118,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-10 06:29:04 UTC
+ Last Updated on 2025-09-11 06:29:35 UTC
 <!--END_SECTION:waka-->
 
 ---
