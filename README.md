@@ -88,22 +88,22 @@ Sunday                   213 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 53 mins        ██████████████████░░░░░░░   73.18 % 
-Java Properties          28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Lua                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Lua                      47 mins             ████████████░░░░░░░░░░░░░   49.00 % 
+Java Properties          28 mins             ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Java                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 35 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am-cty                   1 hr 51 mins        ██████████████████░░░░░░░   71.96 % 
-spring-boot-nextjs-starte37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-apisix                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+apisix                   58 mins             ███████████████░░░░░░░░░░   60.66 % 
+spring-boot-nextjs-starte37 mins             ██████████░░░░░░░░░░░░░░░   39.07 % 
+am-cty                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    2 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -119,7 +119,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-14 06:26:28 UTC
+ Last Updated on 2025-09-15 06:31:22 UTC
 <!--END_SECTION:waka-->
 
 ---
