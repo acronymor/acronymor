@@ -88,22 +88,20 @@ Sunday                   213 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Lua                      47 mins             ████████████░░░░░░░░░░░░░   49.00 % 
-Java Properties          28 mins             ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Java                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Java Properties          28 mins             ███████████████████░░░░░░   76.60 % 
+Java                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Properties               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 36 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-apisix                   58 mins             ███████████████░░░░░░░░░░   60.66 % 
-spring-boot-nextjs-starte37 mins             ██████████░░░░░░░░░░░░░░░   39.07 % 
-am-cty                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+spring-boot-nextjs-starte37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 36 mins        █████████████████████████   100.00 % 
+Linux                    37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -119,7 +117,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-18 06:29:07 UTC
+ Last Updated on 2025-09-19 06:29:14 UTC
 <!--END_SECTION:waka-->
 
 ---
