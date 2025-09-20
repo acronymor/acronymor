@@ -43,8 +43,6 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2058%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369.2%20thousand%20lines%20of%20code-blue)
@@ -61,49 +59,6 @@ const acronymor = {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-🌆 Daytime                258 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-🌃 Evening                637 commits         ██████████████░░░░░░░░░░░   54.07 % 
-🌙 Night                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Friday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Sunday                   213 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java Properties          28 mins             ███████████████████░░░░░░   76.60 % 
-Java                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Properties               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-
-🔥 Editors: 
-IntelliJ IDEA            37 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-spring-boot-nextjs-starte37 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    37 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -117,7 +72,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-19 06:29:14 UTC
+ Last Updated on 2025-09-20 06:27:00 UTC
 <!--END_SECTION:waka-->
 
 ---
