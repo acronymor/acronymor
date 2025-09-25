@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,24 +88,24 @@ Sunday                   213 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       42 mins             ███████████████░░░░░░░░░░   61.07 % 
-Java                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-XML                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Java Properties          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Java                     1 hr 51 mins        ███████████████░░░░░░░░░░   60.34 % 
+Go                       42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Kotlin                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-GoLand                   43 mins             ███████████████░░░░░░░░░░   61.88 % 
-IntelliJ IDEA            26 mins             ██████████░░░░░░░░░░░░░░░   38.12 % 
+IntelliJ IDEA            2 hrs 21 mins       ███████████████████░░░░░░   76.49 % 
+GoLand                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
 
 🐱‍💻 Projects: 
-LearnGo                  43 mins             ███████████████░░░░░░░░░░   61.56 % 
-spring-boot-nextjs-starte24 mins             █████████░░░░░░░░░░░░░░░░   35.57 % 
-am-cty                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-chapter04                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+am-cty                   1 hr 56 mins        ████████████████░░░░░░░░░   62.97 % 
+LearnGo                  43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+spring-boot-nextjs-starte24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+chapter04                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -121,7 +121,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-24 06:29:25 UTC
+ Last Updated on 2025-09-25 06:29:59 UTC
 <!--END_SECTION:waka-->
 
 ---
