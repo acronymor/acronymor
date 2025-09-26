@@ -43,7 +43,7 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,24 +88,24 @@ Sunday                   213 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 51 mins        ███████████████░░░░░░░░░░   60.34 % 
-Go                       42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Kotlin                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Java                     1 hr 51 mins        ███████████████░░░░░░░░░░   60.22 % 
+Go                       42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Kotlin                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 21 mins       ███████████████████░░░░░░   76.49 % 
-GoLand                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+IntelliJ IDEA            2 hrs 22 mins       ███████████████████░░░░░░   76.61 % 
+GoLand                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
 
 🐱‍💻 Projects: 
-am-cty                   1 hr 56 mins        ████████████████░░░░░░░░░   62.97 % 
-LearnGo                  43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-spring-boot-nextjs-starte24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+am-cty                   1 hr 57 mins        ████████████████░░░░░░░░░   63.17 % 
+LearnGo                  43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+spring-boot-nextjs-starte24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 chapter04                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -121,7 +121,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-25 06:29:59 UTC
+ Last Updated on 2025-09-26 06:29:05 UTC
 <!--END_SECTION:waka-->
 
 ---
