@@ -43,8 +43,6 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%204%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369.2%20thousand%20lines%20of%20code-blue)
@@ -61,53 +59,6 @@ const acronymor = {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-🌆 Daytime                258 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-🌃 Evening                637 commits         ██████████████░░░░░░░░░░░   54.07 % 
-🌙 Night                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Friday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Sunday                   213 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     1 hr 51 mins        ███████████████░░░░░░░░░░   60.22 % 
-Go                       42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Kotlin                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-
-🔥 Editors: 
-IntelliJ IDEA            2 hrs 22 mins       ███████████████████░░░░░░   76.61 % 
-GoLand                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-
-🐱‍💻 Projects: 
-am-cty                   1 hr 57 mins        ████████████████░░░░░░░░░   63.17 % 
-LearnGo                  43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-spring-boot-nextjs-starte24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-chapter04                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-💻 Operating System: 
-Linux                    3 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -121,7 +72,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-27 06:25:27 UTC
+ Last Updated on 2025-09-28 06:27:11 UTC
 <!--END_SECTION:waka-->
 
 ---
