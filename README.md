@@ -61,6 +61,52 @@ const acronymor = {
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌆 Daytime                258 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+🌃 Evening                637 commits         ██████████████░░░░░░░░░░░   54.07 % 
+🌙 Night                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Sunday                   213 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Java                     1 hr 39 mins        ████████████████░░░░░░░░░   62.67 % 
+Go                       42 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Kotlin                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+
+🔥 Editors: 
+IntelliJ IDEA            1 hr 55 mins        ██████████████████░░░░░░░   72.67 % 
+GoLand                   43 mins             ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+
+🐱‍💻 Projects: 
+am-cty                   1 hr 55 mins        ██████████████████░░░░░░░   72.67 % 
+LearnGo                  43 mins             ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+chapter04                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+💻 Operating System: 
+Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -74,7 +120,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-29 06:31:36 UTC
+ Last Updated on 2025-09-30 06:30:18 UTC
 <!--END_SECTION:waka-->
 
 ---
