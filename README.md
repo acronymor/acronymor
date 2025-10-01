@@ -88,23 +88,20 @@ Sunday                   213 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 39 mins        ████████████████░░░░░░░░░   62.67 % 
-Go                       42 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-Kotlin                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Java                     1 hr 39 mins        ██████████████████████░░░   86.23 % 
+Kotlin                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 55 mins        ██████████████████░░░░░░░   72.67 % 
-GoLand                   43 mins             ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+IntelliJ IDEA            1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am-cty                   1 hr 55 mins        ██████████████████░░░░░░░   72.67 % 
-LearnGo                  43 mins             ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-chapter04                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+am-cty                   1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -120,7 +117,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-09-30 06:30:18 UTC
+ Last Updated on 2025-10-01 06:30:11 UTC
 <!--END_SECTION:waka-->
 
 ---
