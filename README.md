@@ -88,20 +88,17 @@ Sunday                   213 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 39 mins        ██████████████████████░░░   86.23 % 
-Kotlin                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Kotlin                   0 secs              ███████████████░░░░░░░░░░   61.06 % 
+Java                     0 secs              ██████████░░░░░░░░░░░░░░░   38.94 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 55 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-am-cty                   1 hr 55 mins        █████████████████████████   100.00 % 
+am-cty                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -117,7 +114,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2025-10-01 06:30:11 UTC
+ Last Updated on 2025-10-02 06:29:29 UTC
 <!--END_SECTION:waka-->
 
 ---
