@@ -59,6 +59,45 @@ const acronymor = {
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌆 Daytime                258 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+🌃 Evening                637 commits         ██████████████░░░░░░░░░░░   54.07 % 
+🌙 Night                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Sunday                   213 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -72,7 +111,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-01-03 06:33:16 UTC
+ Last Updated on 2026-01-04 06:33:46 UTC
 <!--END_SECTION:waka-->
 
 ---
