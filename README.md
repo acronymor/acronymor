@@ -43,8 +43,6 @@ const acronymor = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2020%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-374.44%20thousand%20lines%20of%20code-blue?style=flat)
@@ -61,45 +59,6 @@ const acronymor = {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-🌆 Daytime                259 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-🌃 Evening                637 commits         ██████████████░░░░░░░░░░░   54.03 % 
-🌙 Night                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Tuesday                  140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Thursday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Friday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Sunday                   214 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -113,7 +72,7 @@ CMake                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-05-14 08:39:09 UTC
+ Last Updated on 2026-05-15 08:50:15 UTC
 <!--END_SECTION:waka-->
 
 ---
